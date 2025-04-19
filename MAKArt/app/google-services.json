@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "660372349263",
+    "project_id": "maka-fe78f",
+    "storage_bucket": "maka-fe78f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660372349263:android:84653ce0b1d5e2ed82253a",
+        "android_client_info": {
+          "package_name": "com.example.makart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqpmRnR4pepri0YufiGwaiuezWHX3w-ic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
