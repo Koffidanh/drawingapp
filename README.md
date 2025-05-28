@@ -29,5 +29,3 @@ An Android drawing application built using **Kotlin**, **Jetpack components**, a
 
 ---
 
-## 📁 Project Structure
-
