@@ -1,8 +1,7 @@
 # drawingapp
 # 🎨 Android Drawing App
 
-An Android drawing application built using **Kotlin**, **Jetpack components**, and **MVVM architecture**. The app allows users to draw custom shapes, freehand strokes, and save their work — all with a simple and responsive UI.
-
+A collaborative Android drawing application developed by a team of three classmates using Kotlin, Jetpack components, and MVVM architecture. The app allows users to draw freehand strokes and shapes, customize colors and stroke widths, and preserve drawings with a simple, responsive UI.
 ---
 
 ## 📱 Features
